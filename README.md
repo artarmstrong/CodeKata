@@ -26,4 +26,4 @@ Heres a list of all of them (might not have started or completed them).
 * **Kata 18**: Dependencies. Let’s write some code that calculates how dependencies propagate between things such as classes in a program.
 * **Kata 19**: Word chains. Write a program that solves word chain puzzles (cat → cot → dot → dog).
 * **Kata 20**: Klondike. Experiment with various heuristics for playing the game Klondike.
-* **Kata 21: Simple Lists. Play with different implementations of a simple list.
+* **Kata 21**: Simple Lists. Play with different implementations of a simple list.
