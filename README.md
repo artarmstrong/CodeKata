@@ -6,8 +6,8 @@ Heres a list of all of them (might not have started or completed them).
 
 ## The Kata
 
-* **Kata 1**: Supermarket pricing. Pricing looks easy, but scratch the surface and there are some interesting issues to consider.
-* **Kata 2**: Karate Chop. A binary chop algorithm is fairly boring. Until you have to implement it using five totally different techniques.
+* [**Kata 1**](http://codekata.com/kata/kata01-supermarket-pricing/): Supermarket pricing. Pricing looks easy, but scratch the surface and there are some interesting issues to consider.
+* [**Kata 2**](http://codekata.com/kata/kata02-karate-chop/): Karate Chop. A binary chop algorithm is fairly boring. Until you have to implement it using five totally different techniques.
 * **Kata 3**: How Big, How Fast? Quick estimation is invaluable when it comes to making design and implementation decisions. Here are some questions to make you turn over the envelope.
 * **Kata 4**: Data Munging. Implement two simple data extraction routines, and see how much they have in common.
 * **Kata 5**: Bloom Filters. Implement a simple hash-based lookup mechanism and explore its characteristics.
