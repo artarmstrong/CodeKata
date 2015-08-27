@@ -16,7 +16,14 @@ class Chop
 
     public function chop2($int, $array_of_int)
     {
-        return -1;
+        $index = -1;
+        for ($i=0;$i<count($array_of_int);$i++) {
+            if ($array_of_int[$i] == $int) {
+                $index = $i;
+                break;
+            }
+        }
+        return $index;
     }
 
     public function chop3($int, $array_of_int)

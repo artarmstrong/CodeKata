@@ -29,3 +29,9 @@ The goal of this kata is to practice a looser style of experimental modelling. L
 * three for a dollar (so what’s the price if I buy 4, or 5?) - **If you buy anything that is not divisible by 3 (1,2,4,5,7,8,etc) then you would pay the original price.**
 * $1.99/pound (so what does 4 ounces cost?) - **With 16 ounces in a pound you take the divisible amount by ounce (1.99 / 16 = .124375) then mulitply by number needed (4 * .124375 = .4975) then round up.**
 * buy two, get one free (so does the third item have a price?) - **Well technically this can be done a few ways. Price the third on scan to be $0. Or on scan then price each item to 1/3 of the total price**
+
+2015/08/27 - Well the most logical answer that I come to when thinking about this problem is from my regular trips to the store. Heres what I first think of:
+
+* three for a dollar (so what’s the price if I buy 4, or 5?) - **This comes down the fineprint of the deal. If its like my local grocery then it marks down each price to 1/3 of the price. So if you bought 4 then you'd pay $1 for the first three and the fourth would be $.33 rounded to $.34**
+* $1.99/pound (so what does 4 ounces cost?) - **I think this works out how I explained previously.**
+* buy two, get one free (so does the third item have a price?) - **I think im still good with my previous answer.**
