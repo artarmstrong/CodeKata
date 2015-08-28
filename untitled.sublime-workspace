@@ -1,0 +1,268 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"git pul",
+				"Git: Pull"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"Git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"Gi",
+				"Git: Commit"
+			]
+		],
+		"width": 484.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"echo \"<h2><a href=\\\"{$page_parent->url}\\\">{$page_parent->title}</a></h2>\";"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/arthurarmstrong/Sites/CodeKata"
+	],
+	"file_history":
+	[
+		"/Users/arthurarmstrong/Sites/FS-App/app/views/admin/console/_include/notes.blade.php",
+		"/Users/arthurarmstrong/Sites/FS-App/fs-app.sublime-project",
+		"/Users/arthurarmstrong/Sites/SS-Corporate/site/templates/home.php",
+		"/Users/arthurarmstrong/Sites/SS-Corporate/site/templates/include/_foot.inc",
+		"/Users/arthurarmstrong/Sites/SS-Corporate/site/templates/include/_head-mkt.inc",
+		"/Users/arthurarmstrong/Sites/SS-Corporate/site/templates/include/block-find-doctor.inc",
+		"/Users/arthurarmstrong/Sites/SS-Corporate/site/templates/include/block-join-us.inc",
+		"/Users/arthurarmstrong/Sites/SS-Corporate/site/templates/include/block-video-testimonials.inc",
+		"/Users/arthurarmstrong/Sites/SS-Corporate/site/templates/marketing.php",
+		"/Users/arthurarmstrong/Sites/SS-Corporate/site/templates/regional-landing.php",
+		"/Users/arthurarmstrong/Sites/SS-Corporate/site/templates/widgets-signup.php",
+		"/Users/arthurarmstrong/Sites/FS-Network/wp-config.php",
+		"/Users/arthurarmstrong/Sites/FS-Network/.htaccess",
+		"/Users/arthurarmstrong/Sites/FS-Network/wp-content/plugins/threewp-broadcast/ThreeWP_Broadcast.php",
+		"/Users/arthurarmstrong/Sites/FS-Network/wp-content/plugins/threewp-broadcast/ThreeWP_Broadcast_Blog_Groups.php",
+		"/Users/arthurarmstrong/Sites/FS-Network/wp-content/plugins/threewp-broadcast/readme.txt",
+		"/Users/arthurarmstrong/Sites/VS-Corporate/site/templates/json-blog.php",
+		"/Users/arthurarmstrong/Sites/VS-Corporate/.gitignore",
+		"/Users/arthurarmstrong/Library/Application Support/Sublime Text 3/Packages/Phpcs/phpcs.sublime-settings",
+		"/Users/arthurarmstrong/Library/Application Support/Sublime Text 3/Packages/User/phpcs.sublime-settings",
+		"/Users/arthurarmstrong/Library/Application Support/Sublime Text 3/Packages/User/trailing_spaces.sublime-settings",
+		"/Users/arthurarmstrong/Sites/VS-Corporate/vs-corporate.sublime-project",
+		"/Users/arthurarmstrong/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/arthurarmstrong/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/arthurarmstrong/Sites/_Sublime Projects/vsr-comp.sublime-project",
+		"/Users/arthurarmstrong/Sites/VSR-Comprehensive/site/modules/ProcessCustomPromotions.module",
+		"/Users/arthurarmstrong/Sites/VSR-Comprehensive/site/modules/ProcessCustomDBPromotions.module",
+		"/Users/arthurarmstrong/Sites/VSR-Comprehensive/site/modules/ProcessCustomBlogPosts.module",
+		"/Users/arthurarmstrong/Sites/VSR-Comprehensive/site/modules/DoctorBlogPosts.module",
+		"/Users/arthurarmstrong/Sites/VSR-Comprehensive/site/modules/DoctorPromotions.module",
+		"/Users/arthurarmstrong/Sites/VSR-Comprehensive/site/modules/VSBlogPosts.module",
+		"/Users/arthurarmstrong/Sites/VSR-Comprehensive/readme.md",
+		"/Users/arthurarmstrong/Sites/VSR-Comprehensive/site/templates/include/_custom.inc",
+		"/Users/arthurarmstrong/Sites/VSR-Comprehensive/site/templates/include/_head.inc",
+		"/Users/arthurarmstrong/Sites/VSR-Comprehensive/site/templates/include/_footer.inc",
+		"/Users/arthurarmstrong/Sites/VSR-Comprehensive/site/templates/widgets-navigation.php",
+		"/Users/arthurarmstrong/Sites/VSR-Comprehensive/site/templates/include/_functions.inc",
+		"/Users/arthurarmstrong/Sites/VSR-Comprehensive/site/templates/include/block-pagination.inc",
+		"/Users/arthurarmstrong/Sites/VSR-Comprehensive/site/templates/blog-single.php",
+		"/Users/arthurarmstrong/Sites/VSR-Comprehensive/site/templates/blog.php",
+		"/Users/arthurarmstrong/Sites/VueTodo/index.html",
+		"/Users/arthurarmstrong/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/arthurarmstrong/Sites/VS-Corporate/site/templates",
+			"/Users/arthurarmstrong/Sites/VSRC/site/templates",
+			"/Users/arthurarmstrong/Sites/SS-Corporate/site/templates",
+			"/Users/arthurarmstrong/Sites/VSR-Comprehensive/site/templates"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".doctors",
+			"hide_filters",
+			"Vision Source",
+			"<<<<<",
+			"“",
+			"$input->post->",
+			"cleanUrl(",
+			"Unable",
+			"message",
+			"promotion",
+			"navTree(",
+			"burrito"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Smile Source",
+			"\"",
+			"$input->get->",
+			"post"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

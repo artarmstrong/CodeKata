@@ -35,3 +35,8 @@ The goal of this kata is to practice a looser style of experimental modelling. L
 * three for a dollar (so what’s the price if I buy 4, or 5?) - **This comes down the fineprint of the deal. If its like my local grocery then it marks down each price to 1/3 of the price. So if you bought 4 then you'd pay $1 for the first three and the fourth would be $.33 rounded to $.34**
 * $1.99/pound (so what does 4 ounces cost?) - **I think this works out how I explained previously.**
 * buy two, get one free (so does the third item have a price?) - **I think im still good with my previous answer.**
+
+2015/08/28 - Going to think of this from a programmic style as far as how I would store these values in a array/cart
+
+* three for a dollar (so what’s the price if I buy 4, or 5?) - **Similar questions arise to nail down the individual price (if all products are ~ $.33 or if you have to buy 3 for a dollar and others are regular price) but I would say that as each item is added to the array or storage you would check the pricing and reduce to the cheaper value if mod 3**
+* buy two, get one free (so does the third item have a price?) - **So I think this would have to be down when adding each item checking if its divisible by 3 then if thats the case make the price $0, otherwise mark it normally.**
